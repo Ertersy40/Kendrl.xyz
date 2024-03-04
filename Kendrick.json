@@ -1,0 +1,791 @@
+[
+    {
+        "album_name": "Mr. Morale & The Big Steppers",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
+        "tracks": [
+            {
+                "track_name": "United In Grief",
+                "track_length": "4:15",
+                "features": []
+            },
+            {
+                "track_name": "N95",
+                "track_length": "3:15",
+                "features": []
+            },
+            {
+                "track_name": "Worldwide Steppers",
+                "track_length": "3:23",
+                "features": []
+            },
+            {
+                "track_name": "Die Hard",
+                "track_length": "3:59",
+                "features": [
+                    "Blxst",
+                    "Amanda Reifer"
+                ]
+            },
+            {
+                "track_name": "Father Time",
+                "track_length": "3:42",
+                "features": [
+                    "Sampha"
+                ]
+            },
+            {
+                "track_name": "Rich - Interlude",
+                "track_length": "1:43",
+                "features": []
+            },
+            {
+                "track_name": "Rich Spirit",
+                "track_length": "3:22",
+                "features": []
+            },
+            {
+                "track_name": "We Cry Together",
+                "track_length": "5:41",
+                "features": [
+                    "Taylour Paige"
+                ]
+            },
+            {
+                "track_name": "Purple Hearts",
+                "track_length": "5:29",
+                "features": [
+                    "Summer Walker",
+                    "Ghostface Killah"
+                ]
+            },
+            {
+                "track_name": "Count Me Out",
+                "track_length": "4:43",
+                "features": []
+            },
+            {
+                "track_name": "Crown",
+                "track_length": "4:24",
+                "features": []
+            },
+            {
+                "track_name": "Silent Hill",
+                "track_length": "3:40",
+                "features": [
+                    "Kodak Black"
+                ]
+            },
+            {
+                "track_name": "Savior - Interlude",
+                "track_length": "2:32",
+                "features": []
+            },
+            {
+                "track_name": "Savior",
+                "track_length": "3:44",
+                "features": [
+                    "Baby Keem",
+                    "Sam Dew"
+                ]
+            },
+            {
+                "track_name": "Auntie Diaries",
+                "track_length": "4:41",
+                "features": []
+            },
+            {
+                "track_name": "Mr. Morale",
+                "track_length": "3:30",
+                "features": [
+                    "Tanna Leone"
+                ]
+            },
+            {
+                "track_name": "Mother I Sober ",
+                "track_length": "6:46",
+                "features": [
+                    "Beth Gibbons"
+                ]
+            },
+            {
+                "track_name": "Mirror",
+                "track_length": "4:16",
+                "features": []
+            },
+            {
+                "track_name": "The Heart Part 5",
+                "track_length": "5:32",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "Black Panther The Album Music From And Inspired By",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+        "tracks": [
+            {
+                "track_name": "Black Panther",
+                "track_length": "2:10",
+                "features": []
+            },
+            {
+                "track_name": "All The Stars (with SZA)",
+                "track_length": "3:52",
+                "features": [
+                    "SZA"
+                ]
+            },
+            {
+                "track_name": "X (with 2 Chainz & Saudi)",
+                "track_length": "4:27",
+                "features": [
+                    "ScHoolboy Q",
+                    "2 Chainz",
+                    "Saudi"
+                ]
+            },
+            {
+                "track_name": "The Ways (with Swae Lee)",
+                "track_length": "3:58",
+                "features": [
+                    "Khalid",
+                    "Swae Lee"
+                ]
+            },
+            {
+                "track_name": "Opps (with Yugen Blakrok)",
+                "track_length": "3:00",
+                "features": [
+                    "Vince Staples",
+                    "Yugen Blakrok"
+                ]
+            },
+            {
+                "track_name": "I Am",
+                "track_length": "3:28",
+                "features": [
+                    "Jorja Smith"
+                ]
+            },
+            {
+                "track_name": "Paramedic!",
+                "track_length": "3:39",
+                "features": [
+                    "SOB X RBE"
+                ]
+            },
+            {
+                "track_name": "Bloody Waters (with Anderson .Paak & James Blake)",
+                "track_length": "4:32",
+                "features": [
+                    "Ab-Soul",
+                    "Anderson .Paak",
+                    "James Blake"
+                ]
+            },
+            {
+                "track_name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+                "track_length": "3:45",
+                "features": [
+                    "Jay Rock",
+                    "Future",
+                    "James Blake"
+                ]
+            },
+            {
+                "track_name": "Redemption Interlude",
+                "track_length": "1:25",
+                "features": [
+                    "Zacari"
+                ]
+            },
+            {
+                "track_name": "Redemption (with Babes Wodumo)",
+                "track_length": "3:42",
+                "features": [
+                    "Zacari",
+                    "Babes Wodumo"
+                ]
+            },
+            {
+                "track_name": "Seasons (with Sjava & Reason)",
+                "track_length": "4:02",
+                "features": [
+                    "Mozzy",
+                    "Sjava",
+                    "REASON"
+                ]
+            },
+            {
+                "track_name": "Big Shot (with Travis Scott)",
+                "track_length": "3:41",
+                "features": [
+                    "Travis Scott"
+                ]
+            },
+            {
+                "track_name": "Pray For Me (with Kendrick Lamar)",
+                "track_length": "3:31",
+                "features": [
+                    "The Weeknd"
+                ]
+            }
+        ]
+    },
+    {
+        "album_name": "DAMN.",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+        "tracks": [
+            {
+                "track_name": "BLOOD.",
+                "track_length": "1:58",
+                "features": []
+            },
+            {
+                "track_name": "DNA.",
+                "track_length": "3:05",
+                "features": []
+            },
+            {
+                "track_name": "YAH.",
+                "track_length": "2:40",
+                "features": []
+            },
+            {
+                "track_name": "ELEMENT.",
+                "track_length": "3:28",
+                "features": []
+            },
+            {
+                "track_name": "FEEL.",
+                "track_length": "3:34",
+                "features": []
+            },
+            {
+                "track_name": "LOYALTY.",
+                "track_length": "3:47",
+                "features": [
+                    "Rihanna"
+                ]
+            },
+            {
+                "track_name": "PRIDE.",
+                "track_length": "4:35",
+                "features": []
+            },
+            {
+                "track_name": "HUMBLE.",
+                "track_length": "2:57",
+                "features": []
+            },
+            {
+                "track_name": "LUST.",
+                "track_length": "5:07",
+                "features": []
+            },
+            {
+                "track_name": "LOVE.",
+                "track_length": "3:33",
+                "features": [
+                    "Zacari"
+                ]
+            },
+            {
+                "track_name": "XXX.",
+                "track_length": "4:14",
+                "features": [
+                    "U2"
+                ]
+            },
+            {
+                "track_name": "FEAR.",
+                "track_length": "7:40",
+                "features": []
+            },
+            {
+                "track_name": "GOD.",
+                "track_length": "4:08",
+                "features": []
+            },
+            {
+                "track_name": "DUCKWORTH.",
+                "track_length": "4:08",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "untitled unmastered.",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b2738c697f553a46006a5d8886b2",
+        "tracks": [
+            {
+                "track_name": "untitled 01 | 08.19.2014.",
+                "track_length": "4:07",
+                "features": []
+            },
+            {
+                "track_name": "untitled 02 | 06.23.2014.",
+                "track_length": "4:18",
+                "features": []
+            },
+            {
+                "track_name": "untitled 03 | 05.28.2013.",
+                "track_length": "2:34",
+                "features": []
+            },
+            {
+                "track_name": "untitled 04 | 08.14.2014.",
+                "track_length": "1:50",
+                "features": []
+            },
+            {
+                "track_name": "untitled 05 | 09.21.2014.",
+                "track_length": "5:38",
+                "features": []
+            },
+            {
+                "track_name": "untitled 06 | 06.30.2014.",
+                "track_length": "3:28",
+                "features": []
+            },
+            {
+                "track_name": "untitled 07 | 2014 - 2016",
+                "track_length": "8:16",
+                "features": []
+            },
+            {
+                "track_name": "untitled 08 | 09.06.2014.",
+                "track_length": "3:55",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "To Pimp A Butterfly",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+        "tracks": [
+            {
+                "track_name": "Wesley's Theory",
+                "track_length": "4:47",
+                "features": [
+                    "George Clinton",
+                    "Thundercat"
+                ]
+            },
+            {
+                "track_name": "For Free? - Interlude",
+                "track_length": "2:10",
+                "features": []
+            },
+            {
+                "track_name": "King Kunta",
+                "track_length": "3:54",
+                "features": []
+            },
+            {
+                "track_name": "Institutionalized",
+                "track_length": "4:31",
+                "features": [
+                    "Bilal",
+                    "Anna Wise",
+                    "Snoop Dogg"
+                ]
+            },
+            {
+                "track_name": "These Walls",
+                "track_length": "5:00",
+                "features": [
+                    "Bilal",
+                    "Anna Wise",
+                    "Thundercat"
+                ]
+            },
+            {
+                "track_name": "u",
+                "track_length": "4:28",
+                "features": []
+            },
+            {
+                "track_name": "Alright",
+                "track_length": "3:39",
+                "features": []
+            },
+            {
+                "track_name": "For Sale? - Interlude",
+                "track_length": "4:51",
+                "features": []
+            },
+            {
+                "track_name": "Momma",
+                "track_length": "4:43",
+                "features": []
+            },
+            {
+                "track_name": "Hood Politics",
+                "track_length": "4:52",
+                "features": []
+            },
+            {
+                "track_name": "How Much A Dollar Cost",
+                "track_length": "4:21",
+                "features": [
+                    "James Fauntleroy",
+                    "Ronald Isley"
+                ]
+            },
+            {
+                "track_name": "Complexion (A Zulu Love)",
+                "track_length": "4:23",
+                "features": [
+                    "Rapsody"
+                ]
+            },
+            {
+                "track_name": "The Blacker The Berry",
+                "track_length": "5:28",
+                "features": []
+            },
+            {
+                "track_name": "You Ain't Gotta Lie (Momma Said)",
+                "track_length": "4:01",
+                "features": []
+            },
+            {
+                "track_name": "i",
+                "track_length": "5:36",
+                "features": []
+            },
+            {
+                "track_name": "Mortal Man",
+                "track_length": "12:07",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "good kid, m.A.A.d city (Deluxe)",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
+        "tracks": [
+            {
+                "track_name": "The Recipe - Bonus Track",
+                "track_length": "5:52",
+                "features": [
+                    "Dr. Dre"
+                ]
+            },
+            {
+                "track_name": "Black Boy Fly - Bonus Track",
+                "track_length": "4:39",
+                "features": []
+            },
+            {
+                "track_name": "Now Or Never - Bonus Track",
+                "track_length": "4:16",
+                "features": [
+                    "Mary J. Blige"
+                ]
+            },
+            {
+                "track_name": "The Recipe (Black Hippy Remix) - Bonus Track",
+                "track_length": "4:22",
+                "features": [
+                    "Dr. Dre"
+                ]
+            },
+            {
+                "track_name": "Bitch, Don't Kill My Vibe - Remix",
+                "track_length": "4:38",
+                "features": [
+                    "JAY-Z"
+                ]
+            }
+        ]
+    },
+    {
+        "album_name": "good kid, m.A.A.d city",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797",
+        "tracks": [
+            {
+                "track_name": "Sherane a.k.a Master Splinter's Daughter",
+                "track_length": "4:33",
+                "features": []
+            },
+            {
+                "track_name": "Bitch, Don't Kill My Vibe",
+                "track_length": "5:10",
+                "features": []
+            },
+            {
+                "track_name": "Backseat Freestyle",
+                "track_length": "3:32",
+                "features": []
+            },
+            {
+                "track_name": "The Art of Peer Pressure",
+                "track_length": "5:24",
+                "features": []
+            },
+            {
+                "track_name": "Money Trees",
+                "track_length": "6:26",
+                "features": [
+                    "Jay Rock"
+                ]
+            },
+            {
+                "track_name": "Poetic Justice",
+                "track_length": "5:00",
+                "features": [
+                    "Drake"
+                ]
+            },
+            {
+                "track_name": "good kid",
+                "track_length": "3:34",
+                "features": []
+            },
+            {
+                "track_name": "m.A.A.d city",
+                "track_length": "5:50",
+                "features": [
+                    "MC Eiht"
+                ]
+            },
+            {
+                "track_name": "Swimming Pools (Drank) - Extended Version",
+                "track_length": "5:13",
+                "features": []
+            },
+            {
+                "track_name": "Sing About Me, I'm Dying Of Thirst",
+                "track_length": "12:03",
+                "features": []
+            },
+            {
+                "track_name": "Real",
+                "track_length": "7:23",
+                "features": [
+                    "Anna Wise"
+                ]
+            },
+            {
+                "track_name": "Compton",
+                "track_length": "4:08",
+                "features": [
+                    "Dr. Dre"
+                ]
+            },
+            {
+                "track_name": "Bitch, Don't Kill My Vibe - Remix",
+                "track_length": "4:38",
+                "features": [
+                    "JAY-Z"
+                ]
+            }
+        ]
+    },
+    {
+        "album_name": "Section.80",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273eddb2639b74ac6c202032ebe",
+        "tracks": [
+            {
+                "track_name": "F*ck Your Ethnicity",
+                "track_length": "3:44",
+                "features": []
+            },
+            {
+                "track_name": "Hol' Up",
+                "track_length": "2:53",
+                "features": []
+            },
+            {
+                "track_name": "A.D.H.D",
+                "track_length": "3:35",
+                "features": []
+            },
+            {
+                "track_name": "No Make-Up (Her Vice)",
+                "track_length": "3:55",
+                "features": [
+                    "Colin Munroe"
+                ]
+            },
+            {
+                "track_name": "Tammy's Song (Her Evils)",
+                "track_length": "2:41",
+                "features": []
+            },
+            {
+                "track_name": "Chapter Six",
+                "track_length": "2:41",
+                "features": []
+            },
+            {
+                "track_name": "Ronald Reagan Era",
+                "track_length": "3:36",
+                "features": []
+            },
+            {
+                "track_name": "Poe Mans Dreams (His Vice)",
+                "track_length": "4:21",
+                "features": [
+                    "GLC"
+                ]
+            },
+            {
+                "track_name": "Chapter Ten",
+                "track_length": "1:15",
+                "features": []
+            },
+            {
+                "track_name": "Keisha's Song (Her Pain)",
+                "track_length": "3:47",
+                "features": [
+                    "Ashtro Bot"
+                ]
+            },
+            {
+                "track_name": "Rigamortus",
+                "track_length": "2:48",
+                "features": []
+            },
+            {
+                "track_name": "Kush & Corinthians",
+                "track_length": "5:04",
+                "features": [
+                    "BJ The Chicago Kid"
+                ]
+            },
+            {
+                "track_name": "Blow My High (Members Only)",
+                "track_length": "3:35",
+                "features": []
+            },
+            {
+                "track_name": "Ab-Souls Outro",
+                "track_length": "5:50",
+                "features": [
+                    "Ab-Soul"
+                ]
+            },
+            {
+                "track_name": "HiiiPower",
+                "track_length": "4:39",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "Overly Dedicated",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b2739b035b031d9f0a6a75ae464e",
+        "tracks": [
+            {
+                "track_name": "Growing Apart (To Get Closer)",
+                "track_length": "3:40",
+                "features": [
+                    "Jhen\u00e9 Aiko"
+                ]
+            },
+            {
+                "track_name": "Ignorance Is Bliss",
+                "track_length": "3:30",
+                "features": []
+            },
+            {
+                "track_name": "P&P 1.5",
+                "track_length": "6:01",
+                "features": [
+                    "Ab-Soul"
+                ]
+            },
+            {
+                "track_name": "Alien Girl (Today W/ Her)",
+                "track_length": "3:59",
+                "features": []
+            },
+            {
+                "track_name": "Opposites Attract (Tomorrow W/O Her)",
+                "track_length": "4:31",
+                "features": [
+                    "JaVont\u00e9"
+                ]
+            },
+            {
+                "track_name": "Michael Jordan",
+                "track_length": "5:50",
+                "features": [
+                    "ScHoolboy Q"
+                ]
+            },
+            {
+                "track_name": "R.O.T.C (Interlude)",
+                "track_length": "2:43",
+                "features": [
+                    "BJ The Chicago Kid"
+                ]
+            },
+            {
+                "track_name": "Barbed Wire",
+                "track_length": "4:25",
+                "features": [
+                    "Ash Riser"
+                ]
+            },
+            {
+                "track_name": "Average Joe",
+                "track_length": "4:16",
+                "features": []
+            },
+            {
+                "track_name": "H.O.C",
+                "track_length": "5:16",
+                "features": []
+            },
+            {
+                "track_name": "Cut You Off (To Grow Closer)",
+                "track_length": "6:04",
+                "features": []
+            },
+            {
+                "track_name": "She Needs Me (Remix)",
+                "track_length": "3:15",
+                "features": [
+                    "Dom Kennedy",
+                    "Murs"
+                ]
+            }
+        ]
+    },
+    {
+        "album_name": "Push Thru",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273567c147503e8b84dea587971",
+        "tracks": [
+            {
+                "track_name": "Push Thru",
+                "track_length": "5:00",
+                "features": [
+                    "Curren$y",
+                    "Kendrick Lamar",
+                    "Glen Reynolds"
+                ]
+            },
+            {
+                "track_name": "Push Thru",
+                "track_length": "5:01",
+                "features": [
+                    "Curren$y",
+                    "Kendrick Lamar",
+                    "Glen Reynolds"
+                ]
+            },
+            {
+                "track_name": "Push Thru - Instrumental",
+                "track_length": "5:00",
+                "features": [
+                    "Kendrick Lamar",
+                    "Curren$y"
+                ]
+            }
+        ]
+    }
+]
